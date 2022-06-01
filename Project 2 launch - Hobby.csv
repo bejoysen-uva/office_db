@@ -1,4 +1,4 @@
-id,hobby,cost level,hobby_cat_id
+id,hobby,cost_level,hobby_cat_id
 1,improv,low,1
 2,basketball,low,2
 3,painting,medium,1
