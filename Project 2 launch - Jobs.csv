@@ -1,4 +1,4 @@
-id,job,salary,typical educational requirement
+id,job,salary,typical_educational_requirement
 1,salesperson,"40,000",bachelor's
 2,receptionist,"30,000",high school diploma
 3,CEO,"250,000",bachelor's
