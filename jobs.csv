@@ -1,0 +1,13 @@
+id,job,salary,typical educational requirement,percentile,salary_cat
+1,salesperson,"40,000",bachelor's,45,medium
+2,receptionist,"30,000",high school diploma,34,medium
+3,CEO,"250,000",bachelor's,97,high
+4,HR,"50,000",bachelor's,55,medium
+5,dock worker,"30,000",high school diploma,34,medium
+6,regional manager,"60,000",bachelor's,64,medium
+7,accountant,"45,000",bachelor's,50,medium
+8,customer service,"35,000",high school diploma,40,medium
+9,temp,"15,000",bachelor's,15,low
+10,quality assurance,"50,000",bachelor's,55,medium
+11,upper management,"150,000",bachelor's,92,high
+12,intern,"10,000",high school diploma,11,low
