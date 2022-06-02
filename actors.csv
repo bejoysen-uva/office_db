@@ -1,4 +1,4 @@
-id,name,age,net_worth (in millions $),emmy_nominations
+id,name,age,net_worth,emmy_nominations
 1,Steve Carell,59,80,7
 2,John Krasinski,42,80,4
 3,Jenna Fischer,47,14,1
